@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 **20-year-old System Administrator** from 🌍  
+- 🔧 **20-year-old System Administrator** from Russia🌍  
 - 💻 Obsessed with computers, networking, servers, and automation  
 - 🌐 In my free time, I build **websites** and explore new tech  
 - 📚 Constantly **learning** — today it’s Linux, tomorrow — Kubernetes? 😄  
