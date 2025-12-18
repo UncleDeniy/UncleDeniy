@@ -80,9 +80,7 @@ AI/ML               ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dkrutko)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denniskrutko@ya.ru)  
 
-<div align="center">
-  <img src="./ascii-animation.gif" alt="SysAdmin in action" width="600"/>
-</div>
+![Local GIF](./ascii-animation.gif)
 
 
 
