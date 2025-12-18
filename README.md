@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ВАШ_ЛОГИН&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=UncleDeniy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 <br>
@@ -70,4 +70,19 @@ Web Dev             ██████████████▁▁▁▁▁▁
 Kubernetes          ████████▁▁▁▁▁▁▁▁▁▁▁ 35%
 AI/ML               ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
 ```
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+a+SysAdmin!;I+love+computers+%F0%9F%92%BB;Building+websites+in+my+free+time;Always+learning+something+new!" alt="Typing SVG" />
+</h1>
+## 📫 Let's Connect!
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dkrutko)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denniskrutko@ya.ru)  
+
+<div align="center">
+  <img src="./ascii-animation.gif" alt="SysAdmin in action" width="600"/>
+</div>
+
+
 
