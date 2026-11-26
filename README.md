@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=700&color=00FF00&background=00000000&center=true&vCenter=true&width=650&lines=%24+whoami;UncleDeniy;21-year-old+SysAdmin;Linux+%7C+Networking+%7C+Automation;Always+learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=700&color=00FF00&background=00000000&center=true&vCenter=true&width=650&lines=%24+whoami;UncleDeniy;21-year-old+SysAdmin;Linux+%7C+Windows+Server;Learning+every+day..." alt="Typing SVG" />
 </div>
 
 <br>
@@ -26,43 +26,38 @@
 
 ```text
 > 21-year-old System Administrator from Russia
-> Obsessed with Linux, networking, servers and automation
-> Building websites in free time
-> Currently diving deep into Kubernetes and Ansible
-> Outside of terminal: gaming, coffee, tech talks
+> 1–2 years of experience
+> Comfortable with Debian/Ubuntu and Windows Server
+> Intermediate Linux (systemd, services, logs, networking)
+> Intermediate Windows Server (GPO, DNS, DHCP, Hyper-V)
+> Writing simple automation scripts in Bash, PowerShell and Python
+> Currently deepening networking knowledge and Python for automation
+> Building small websites in free time (HTML/CSS + a bit of JS)
 ```
 
 <br>
 
 ## $ ls -la tech-stack/
 
-### OS
+### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-00FF00?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-### Infrastructure
+### Scripting & Automation
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-### Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-### Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-01A1DE?style=flat-square&logo=elasticsearch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logo=openssh&logoColor=white)
+
+### Web (hobby)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <br>
 
@@ -78,22 +73,23 @@
 ## $ cat learning-progress.log
 
 ```text
-Linux Mastery       [████████████████████░] 87%
-Networking          [████████████████████░] 85%
-Automation          [████████████████░░░░░] 70%
-Web Development     [██████████████░░░░░░░] 60%
-Kubernetes          [████████░░░░░░░░░░░░░] 35%
-AI / ML             [████░░░░░░░░░░░░░░░░░] 15%
+Linux               [████████████████░░░░░] 75%
+Windows Server      [████████████████░░░░░] 70%
+Networking          [████████░░░░░░░░░░░░░] 40%
+Bash / PowerShell   [██████████████░░░░░░░] 65%
+Python (scripts)    [████████░░░░░░░░░░░░░] 40%
+Web (HTML/CSS/JS)   [██████████░░░░░░░░░░░] 45%
+Docker / K8s        [████░░░░░░░░░░░░░░░░░] 20%
 ```
 
 <br>
 
 ## $ cat currently.txt
 
-- Learning Kubernetes (homelab cluster)
-- Writing better Ansible playbooks
-- Experimenting with web projects
-- Reading about Linux internals
+- Deepening networking knowledge
+- Improving Python scripts for automation
+- Learning Docker and Kubernetes (early stage)
+- Practicing Linux and Windows Server administration
 
 <br>
 
